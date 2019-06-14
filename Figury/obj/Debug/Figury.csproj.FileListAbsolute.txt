@@ -1,0 +1,15 @@
+C:\Users\Pogromca Ciasteczek\source\repos\Figury\Figury\bin\Debug\Figury.exe.config
+C:\Users\Pogromca Ciasteczek\source\repos\Figury\Figury\bin\Debug\Figury.exe
+C:\Users\Pogromca Ciasteczek\source\repos\Figury\Figury\bin\Debug\Figury.pdb
+C:\Users\Pogromca Ciasteczek\source\repos\Figury\Figury\obj\Debug\Figury.csprojAssemblyReference.cache
+C:\Users\Pogromca Ciasteczek\source\repos\Figury\Figury\obj\Debug\MainWindow.g.cs
+C:\Users\Pogromca Ciasteczek\source\repos\Figury\Figury\obj\Debug\App.g.cs
+C:\Users\Pogromca Ciasteczek\source\repos\Figury\Figury\obj\Debug\Figury_MarkupCompile.cache
+C:\Users\Pogromca Ciasteczek\source\repos\Figury\Figury\obj\Debug\Figury_MarkupCompile.lref
+C:\Users\Pogromca Ciasteczek\source\repos\Figury\Figury\obj\Debug\MainWindow.baml
+C:\Users\Pogromca Ciasteczek\source\repos\Figury\Figury\obj\Debug\Figury.g.resources
+C:\Users\Pogromca Ciasteczek\source\repos\Figury\Figury\obj\Debug\Figury.Properties.Resources.resources
+C:\Users\Pogromca Ciasteczek\source\repos\Figury\Figury\obj\Debug\Figury.csproj.GenerateResource.cache
+C:\Users\Pogromca Ciasteczek\source\repos\Figury\Figury\obj\Debug\Figury.csproj.CoreCompileInputs.cache
+C:\Users\Pogromca Ciasteczek\source\repos\Figury\Figury\obj\Debug\Figury.exe
+C:\Users\Pogromca Ciasteczek\source\repos\Figury\Figury\obj\Debug\Figury.pdb
